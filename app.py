@@ -20,4 +20,9 @@ a = 10
 b = 20
 print(f"\nSum of {a} and {b} is {a + b}")
 
+<<<<<<< HEAD
 print(value)==
+=======
+print(value)
+print(value2)
+>>>>>>> 44d3b456406d2ab4f21c0898041690d753b32d16
