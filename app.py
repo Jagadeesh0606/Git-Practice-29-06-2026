@@ -21,3 +21,4 @@ b = 20
 print(f"\nSum of {a} and {b} is {a + b}")
 
 print(value)
+print(value2)
