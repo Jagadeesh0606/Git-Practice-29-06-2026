@@ -19,3 +19,5 @@ for i in range(1, 6):
 a = 10
 b = 20
 print(f"\nSum of {a} and {b} is {a + b}")
+
+print(value)
